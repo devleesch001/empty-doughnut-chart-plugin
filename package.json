@@ -1,0 +1,11 @@
+{
+  "name": "empty-doughnut-chart-plugin",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [],
+  "author": "Alexis DEVLEESCHAUVWER <alexis@devleeschauwer.fr>",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.4.3"
+  }
+}
